@@ -1,0 +1,22 @@
+{
+  "name": "concurrent-exec",
+  "version": "1.0.0",
+  "description": "Concurrent execution of scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smikai/node-concurrent-exec.git"
+  },
+  "author": "Kai Fehrs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/smikai/node-concurrent-exec/issues"
+  },
+  "homepage": "https://github.com/smikai/node-concurrent-exec#readme",
+  "dependencies": {
+    "async": "^3.2.3"
+  }
+}
